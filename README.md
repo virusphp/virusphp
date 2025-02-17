@@ -14,12 +14,12 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 ## 🛠️ Languages and Tools
 
-![Laravel](https://img.shields.io/badge/Laravel-3670A0?style=for-the-badge&logo=laravel&logoColor=ffdd54)
+![Laravel](https://img.shields.io/badge/Laravel-3670A0?style=for-the-badge&logo=laravel&logoColor=cf1b0a)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Linux](https://img.shields.io/badge/Ubuntu-20232A?style=for-the-badge&logo=ubuntu&logoColor=61DAFB)
-![Php](https://img.shields.io/badge/php-339933?style=for-the-badge&logo=php&logoColor=white)
+![Php](https://img.shields.io/badge/php-339933?style=for-the-badge&logo=php&logoColor=07cff7)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📈 GitHub Stats
