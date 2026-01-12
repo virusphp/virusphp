@@ -24,5 +24,4 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 ## 📈 GitHub Stats
 
-![Febri's GitHub stats](https://github-readme-stats.vercel.app/api?username=virusphp&show_icons=true&theme=radical)
 
