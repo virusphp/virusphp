@@ -22,6 +22,5 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 ![Php](https://img.shields.io/badge/php-339933?style=for-the-badge&logo=php&logoColor=07cff7)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📈 GitHub Stats
 
 
